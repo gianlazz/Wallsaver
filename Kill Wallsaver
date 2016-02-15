@@ -1,0 +1,3 @@
+#!/bin/sh
+Killall -9 ScreenSaverEngine
+exit

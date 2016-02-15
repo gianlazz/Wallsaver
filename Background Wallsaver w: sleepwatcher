@@ -1,0 +1,5 @@
+#!/bin/sh
+cd /System/Library/Frameworks/ScreenSaver.framework/Resources/
+nohup ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine -background & 
+nohup /usr/local/sbin/sleepwatcher -w /Applications/background_wallsaver & 
+exit

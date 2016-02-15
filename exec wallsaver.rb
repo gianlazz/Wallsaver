@@ -1,0 +1,1 @@
+exec('cd /System/Library/Frameworks/ScreenSaver.framework/Resources/nohup ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine -background &')

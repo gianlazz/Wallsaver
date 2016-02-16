@@ -3,6 +3,9 @@ Wallsaver is written in ruby with ruby shoes for the GUI. It gives you the abili
 
 ![](https://github.com/gianlazz/Wallsaver/blob/gh-pages/images/screenshot1.png?raw=true)
 
+#How to Setup
+Just download wallsaver-osx.tgz, decompress it, then run the app.
+
 #How It Works
 Wallsaver runs some console commands in the background from a simple ui to either initiate your screensaver as your wallpaper or revert it back to normal.
 
